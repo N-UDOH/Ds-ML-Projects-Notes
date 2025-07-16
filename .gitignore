@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.zip
+*.rar
+*.xmind
+*.pptx
+*.crdownload
+*.pyc
+_pycache_/
+*.pdf
+*.png
+
